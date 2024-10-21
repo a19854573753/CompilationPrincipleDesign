@@ -5,7 +5,7 @@
 # 7.CompilationPrincipleDesign
 
 
-<p>V：bisebao888888(sql文件)</p>
+<p>V：bishebao888888(sql文件)</p>
 <p>抠: 206157502(sql文件)</p>
 
 <p><h1 align="center">7.编译解释器</h1></p>
